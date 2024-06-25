@@ -49,9 +49,6 @@ This guide provides a step-by-step process to build a simulation for a six-degre
 - Use a 3D visualization tool like 3D plots or animations to visualize the robot's motion. This will help you understand the robot's behavior and identify any issues with its motion.
 - Use the Robotics Toolbox to create a 3D visualization model of the robot. This will help you visualize the robot's motion and identify any issues with its behavior.
 
-## Summary
-Building a simulation for a 6-DOF robotics system involves several steps, including designing the robot, creating a MATLAB model, defining the kinematics, simulating the robot, visualizing the robot, and testing and refining the simulation. By following these steps and using the Robotics Toolbox, you can create an accurate and reliable simulation of a 6-DOF robotics system.
-
 ## References
 - [SolidWorks](https://www.solidworks.com/)
 - [MATLAB](https://www.mathworks.com/products/matlab.html)
